@@ -1,0 +1,3 @@
+# matplotlib
+利用matplotlib中的2D库画图
+使用python结合numpy和matplotlib
